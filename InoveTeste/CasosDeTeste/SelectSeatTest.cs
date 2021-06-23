@@ -142,6 +142,7 @@ namespace CasosDeTeste
                         break;
                     }
             }
+            // Seat Selector with Xpath
             driver.FindElement(By.XPath($"//div[contains(@class, 'row-{line}')]/div[contains(@class,'row-group')][{div}]/button[{seat}]")).Click();
         }
         #endregion

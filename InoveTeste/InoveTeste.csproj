@@ -58,7 +58,6 @@
     <Compile Include="CasosDeTeste\SelectSeatTest.cs" />
     <Compile Include="Comandos\Comandos.cs" />
     <Compile Include="PageObject\SeatSelectionPageObject.cs" />
-    <Compile Include="PageObject\ContatoPageObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
